@@ -17,9 +17,6 @@ http://5.153.180.133:8000/play/a06h
 #EXTINF:-1, HORROR
 #EXTGRP:Кино
 http://158.101.194.132:8080/channel/d178d72/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1, Страх HD
-#EXTGRP:Кино
-http://195.9.195.3:8080/hls/202127.m3u8
 #EXTINF:-1, Cinema
 #EXTGRP:Кино
 http://188.113.190.15/212/video.m3u8
