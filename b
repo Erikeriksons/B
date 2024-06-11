@@ -2,6 +2,9 @@
 #EXTINF:-1, Sci-Fi
 #EXTGRP:Кино
 http://91.205.199.3/scifi/index.m3u8
+#EXTINF:-1, Epic Drama
+#EXTGRP:Кино
+http://rhsbjv7k.tvclub.xyz/iptv/CKYQ3VQ8W445TH/1048/index.m3u8
 #EXTINF:-1, НСТ
 #EXTGRP:Кино
 http://188.113.190.15/48/video.m3u8
