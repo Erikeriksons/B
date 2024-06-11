@@ -17,6 +17,12 @@ http://5.153.180.133:8000/play/a06h
 #EXTINF:-1, Horror TV
 #EXTGRP:Кино
 http://158.101.194.132:8080/channel/d178d72/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:-1, Страх HD
+#EXTGRP:Кино
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+#EXTINF:-1, СТРК
+#EXTGRP:Кино
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 #EXTINF:-1, Блокбастер
 #EXTGRP:Кино
 http://5.153.180.133:8000/play/a05z
