@@ -5,6 +5,9 @@ http://91.205.199.3/scifi/index.m3u8
 #EXTINF:-1, Epic Drama
 #EXTGRP:Кино
 http://rhsbjv7k.tvclub.xyz/iptv/CKYQ3VQ8W445TH/1048/index.m3u8
+#EXTINF:-1, Trash TV
+#EXTGRP:Кино
+http://5.153.180.133:8000/play/a05w
 #EXTINF:-1, НСТ
 #EXTGRP:Кино
 http://188.113.190.15/48/video.m3u8
