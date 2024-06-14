@@ -20,9 +20,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/SC6FQMTAN2X5K7/9232/index.m3u8
 #EXTINF:-1, Epic Drama
 #EXTGRP:Кино
 http://rhsbjv7k.tvclub.xyz/iptv/CKYQ3VQ8W445TH/1048/index.m3u8
-#EXTINF:-1, Bolt
-#EXTGRP:Кино
-http://iptv.prosto.tv:7000/ch53/video.m3u8
 #EXTINF:-1, Bolt Россия
 #EXTGRP:Кино
 http://188.113.190.15/84/video.m3u8
@@ -56,9 +53,6 @@ http://46.8.29.51:2020/channel/n4773cab1/index.m3u8?q=a38daa3bb08ae3e108c4b30fae
 #EXTINF:-1, Horror TV
 #EXTGRP:Кино
 http://158.101.194.132:8080/channel/d178d72/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1, Scream
-#EXTGRP:Кино
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94865.m3u8
 #EXTINF:-1, Страх HD
 #EXTGRP:Кино
 http://rhsbjv7k.tvclub.xyz/iptv/CKYQ3VQ8W445TH/11069/index.m3u8
@@ -74,6 +68,9 @@ http://fs2.persik.by/Puteshestvie_vo_vremeni4/index.m3u8
 #EXTINF:-1, Зомби-апокалипсис
 #EXTGRP:Кино
 http://fs2.persik.by/Zombi_apokalipsis4/index.m3u8
+#EXTINF:-1, Scream
+#EXTGRP:Кино
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94865.m3u8
 #EXTINF:-1, TV Horror
 #EXTGRP:Кино
 http://fs2.persik.by/Prokop_tv_horror_hd2/index.m3u8
