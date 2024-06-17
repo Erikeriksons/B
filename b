@@ -13,13 +13,16 @@ https://fs2.persik.by/Kosmo4/index.m3u8
 http://91.205.199.3/scifi/index.m3u8
 #EXTINF:-1, Fox
 #EXTGRP:Кино
-http://rhsbjv7k.tvclub.xyz/iptv/SC6FQMTAN2X5K7/6516/index.m3u8
+http://81.7.108.21:9000/play/FOX-DVBC274-sti4400018450230
 #EXTINF:-1, Fox Life
 #EXTGRP:Кино
-http://rhsbjv7k.tvclub.xyz/iptv/SC6FQMTAN2X5K7/9232/index.m3u8
+http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528
 #EXTINF:-1, Epic Drama
 #EXTGRP:Кино
 http://rhsbjv7k.tvclub.xyz/iptv/CKYQ3VQ8W445TH/1048/index.m3u8
+#EXTINF:-1, Bolt
+#EXTGRP:Кино
+http://ew0vpmat.socminlt.org/iptv/MKPUWB7RSKKPEWFRYG8Y3MKG/991/index.m3u8
 #EXTINF:-1, Bolt Россия
 #EXTGRP:Кино
 http://188.113.190.15/84/video.m3u8
@@ -61,7 +64,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/CKYQ3VQ8W445TH/11069/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/CKYQ3VQ8W445TH/11070/index.m3u8
 #EXTINF:-1, FAN
 #EXTGRP:Кино
-http://92.242.110.52:9835/udp/238.1.7.6:1234
+http://5.153.180.133:8000/play/a00k
 #EXTINF:-1, Путешествие во времени
 #EXTGRP:Кино
 http://fs2.persik.by/Puteshestvie_vo_vremeni4/index.m3u8
@@ -70,14 +73,14 @@ http://fs2.persik.by/Puteshestvie_vo_vremeni4/index.m3u8
 http://fs2.persik.by/Zombi_apokalipsis4/index.m3u8
 #EXTINF:-1, Scream
 #EXTGRP:Кино
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94865.m3u8
-#EXTINF:-1, TV Horror
+http://46.8.29.51:2020/channel/2c7a264a/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+#EXTINF:-1, pHorror
 #EXTGRP:Кино
 http://fs2.persik.by/Prokop_tv_horror_hd2/index.m3u8
-#EXTINF:-1, TV History
+#EXTINF:-1, pHistory
 #EXTGRP:Кино
 http://fs2.persik.by/Prokop_TV_History2/index.m3u8
-#EXTINF:-1, TV Detektiv
+#EXTINF:-1, pDetektiv
 #EXTGRP:Кино
 http://fs2.persik.by/Prokop_TV_Detektiv_HD2/index.m3u8
 #EXTINF:-1, BackusTV Original
