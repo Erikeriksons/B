@@ -1,19 +1,13 @@
 #EXTM3U
 #EXTINF:-1, H2
 #EXTGRP:Познавательные
-http://rhsbjv7k.tvclub.xyz/iptv/NWLADGLZLRR8RV/1052/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NWLADGLZLRR8RV/2033/index.m3u8
 #EXTINF:-1, История
 #EXTGRP:Познавательные
 http://188.113.190.15/54/video.m3u8
 #EXTINF:-1, Космос
 #EXTGRP:Познавательные
 https://fs2.persik.by/Kosmo4/index.m3u8
-#EXTINF:-1, Sci-Fi
-#EXTGRP:Кино
-http://91.205.199.3/scifi/index.m3u8
-#EXTINF:-1, Sci-Fi
-#EXTGRP:Кино
-http://188.113.190.15/23/tracks-v1a1/index.m3u8
 #EXTINF:-1, Sci-Fi
 #EXTGRP:Кино
 http://91.207.115.228:5000/c77
@@ -26,21 +20,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/NWLADGLZLRR8RV/9232/index.m3u8
 #EXTINF:-1, Epic Drama
 #EXTGRP:Кино
 http://enriko.socminlt.org/iptv/DMS24B34VEDWV9N6NVRFSUEV/1048/index.m3u8
-#EXTINF:-1, viju+ Premiere
-#EXTGRP:Кино
-http://188.113.190.15/201/tracks-v1a1/index.m3u8
-#EXTINF:-1, viju+ Megahit
-#EXTGRP:Кино
-http://188.113.190.15/202/tracks-v1a1/index.m3u8
-#EXTINF:-1, viju+ Comedy
-#EXTGRP:Кино
-http://188.113.190.15/203/tracks-v1a1/index.m3u8
-#EXTINF:-1, viju TV1000
-#EXTGRP:Кино
-http://188.113.190.15/31/tracks-v1a1/index.m3u8
-#EXTINF:-1, viju TV1000 Action
-#EXTGRP:Кино
-http://188.113.190.15/30/tracks-v1a1/index.m3u8
 #EXTINF:-1, Bolt Россия
 #EXTGRP:Кино
 http://188.113.190.15/84/video.m3u8
@@ -50,9 +29,12 @@ http://188.113.190.15/233/tracks-v1a1/index.m3u8
 #EXTINF:-1, Trash TV
 #EXTGRP:Кино
 http://5.153.180.133:8000/play/a05w
-#EXTINF:-1, Trash TV
+#EXTINF:-1, VHSClassic
 #EXTGRP:Кино
-https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NWLADGLZLRR8RV/19429/index.m3u8
+#EXTINF:-1, VHS-ка
+#EXTGRP:Кино
+http://176.197.188.55:81/udp/239.255.42.88:1234
 #EXTINF:-1, КиноМистика
 #EXTGRP:Кино
 https://autopilot.catcast.tv/content/40783/index.m3u8
@@ -85,12 +67,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/NWLADGLZLRR8RV/11069/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/NWLADGLZLRR8RV/11070/index.m3u8
 #EXTINF:-1, FAN
 #EXTGRP:Кино
-http://5.153.180.133:8000/play/a00k
-#EXTINF:-1, FAN
-#EXTGRP:Кино
-http://rhsbjv7k.tvclub.xyz/iptv/NWLADGLZLRR8RV/734/index.m3u8
-#EXTINF:-1, FAN
-#EXTGRP:Кино
 http://92.242.110.52:9835/udp/238.1.7.6:1234
 #EXTINF:-1, Путешествие во времени
 #EXTGRP:Кино
@@ -110,18 +86,27 @@ http://fs2.persik.by/Prokop_TV_History2/index.m3u8
 #EXTINF:-1, Детектив
 #EXTGRP:Кино
 http://fs2.persik.by/Prokop_TV_Detektiv_HD2/index.m3u8
-#EXTINF:-1, VHSClassic
+#EXTINF:-1, SHOT TV
 #EXTGRP:Кино
-http://rhsbjv7k.tvclub.xyz/iptv/NWLADGLZLRR8RV/19429/index.m3u8
-#EXTINF:-1, VHS-ка
+http://188.113.190.15/166/tracks-v1a1/index.m3u8
+#EXTINF:-1, viju+ Premiere
 #EXTGRP:Кино
-http://176.197.188.55:81/udp/239.255.42.88:1234
+http://188.113.190.15/201/tracks-v1a1/index.m3u8
+#EXTINF:-1, viju+ Megahit
+#EXTGRP:Кино
+http://188.113.190.15/202/tracks-v1a1/index.m3u8
+#EXTINF:-1, viju+ Comedy
+#EXTGRP:Кино
+http://188.113.190.15/203/tracks-v1a1/index.m3u8
+#EXTINF:-1, viju TV1000
+#EXTGRP:Кино
+http://188.113.190.15/31/tracks-v1a1/index.m3u8
+#EXTINF:-1, viju TV1000 Action
+#EXTGRP:Кино
+http://188.113.190.15/30/tracks-v1a1/index.m3u8
 #EXTINF:-1, BackusTV Original
 #EXTGRP:Кино
 http://tinyurl.com/TvZaTak/0252/video.m3u8?token=6010965E59DF
-#EXTINF:-1, СТРК
-#EXTGRP:Кино
-http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 #EXTINF:-1, Блокбастер
 #EXTGRP:Кино
 http://5.153.180.133:8000/play/a05z
@@ -143,9 +128,9 @@ http://91.205.199.3/black/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Red
 #EXTGRP:Кино
 http://188.113.190.15/22/tracks-v1a1/index.m3u8
-#EXTINF:-1, SHOT TV
+#EXTINF:-1, СТРК
 #EXTGRP:Кино
-http://188.113.190.15/166/tracks-v1a1/index.m3u8
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 #EXTINF:-1, Ретро
 #EXTGRP:Кино
 http://109.239.208.82/retro/index.m3u8
