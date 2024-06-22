@@ -10,7 +10,7 @@ http://188.113.190.15/54/video.m3u8
 https://fs2.persik.by/Kosmo4/index.m3u8
 #EXTINF:-1, Sci-Fi
 #EXTGRP:Кино
-http://91.207.115.228:5000/c77
+http://5.153.180.133:8004/play/a019
 #EXTINF:-1, Fox
 #EXTGRP:Кино
 http://rhsbjv7k.tvclub.xyz/iptv/NWLADGLZLRR8RV/6516/index.m3u8
@@ -52,7 +52,7 @@ http://86.57.178.105:9951/tv3
 http://188.113.190.15/48/video.m3u8
 #EXTINF:-1, КиноУжас
 #EXTGRP:Кино
-http://91.207.115.228:5000/c43
+http://81.23.189.199:4022/udp/234.0.0.114:2000
 #EXTINF:-1, Шокирующее HD
 #EXTGRP:Кино
 http://46.8.29.51:2020/channel/n4773cab1/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
